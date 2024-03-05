@@ -5,22 +5,21 @@ I'm allrounder with knowledge & skills in frontend/UI/UX/backend/hardware (JavaS
 
 # Tech Stack & Skills
 ```
- - Next.js
- - Nest.js
  - TypeScript
  - React.js
- - JavaScript
- - Python
- - MongoDB
- - SQL
- - Linux
- - PHP
+ - Next.js
+ - Nest.js
  - HTML
- - CSS
+ - CSS/SASS
+ - Figma
+ - Python
+ - PHP
+ - SQL
+ - Prisma (ORM)
+ - MongoDB
  - Docker
  - Git
- - MySQL
- - Figma
+ - Linux + Windows
  - Unit + Integration Testing (vitest, jest)
 ```
 # Languages:
@@ -34,6 +33,7 @@ I'm allrounder with knowledge & skills in frontend/UI/UX/backend/hardware (JavaS
 # Experience:
 - 10.2023 -> now: Lesson4Future Team in NeuroN Foundation (fullstack dev => mainly frontend)
 - 12.2023 -> 02.2023: Partaking in development of GoodDevHunting (fullstack dev => mainly backend)
++ been learning programming since 2019
 
 # About me (professionally):
   I give my best to get things done, and to ensure the code I deliver is well thought and readable.
