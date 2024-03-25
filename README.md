@@ -21,6 +21,7 @@ I'm allrounder with knowledge & skills in frontend/UI/UX/backend/hardware (JavaS
  - Git
  - Linux + Windows
  - Unit + Integration Testing (vitest, jest)
+ - Local networks
 ```
 # Languages:
 
