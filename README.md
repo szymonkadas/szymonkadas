@@ -22,6 +22,7 @@ I'm allrounder with knowledge & skills in frontend/UI/UX/backend/hardware (JavaS
  - Linux + Windows
  - Unit + Integration Testing (vitest, jest)
  - LAN
+ + currently learning vue & nuxt
 ```
 # Languages:
 
