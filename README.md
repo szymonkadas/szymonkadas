@@ -35,6 +35,7 @@ I'm allrounder with knowledge & skills in frontend/UI/UX/backend/hardware (JavaS
 # Experience:
 - 10.2023 -> now: Lesson4Future Team in NeuroN Foundation (fullstack dev => mainly frontend)
 - 12.2023 -> 02.2023: Partaking in development of GoodDevHunting (fullstack dev => mainly backend)
+- 08.2024 -> now: developing VapeTool webapp 
 + been learning programming since 2019
 
 # About me (professionally):
