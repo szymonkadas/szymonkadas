@@ -51,7 +51,7 @@ I'm passionate about tech industry, history, geopolitics, psychology, philosophy
 # Education:
 
 - IT Technician in Zespół Szkół im. Bohaterów Westerplatte - Jabłonka (2019/2023) 
-- Planning this year: IT studies in Kraków/Kielce.
+- Currently studying Informatyka Stosowana in Kraków on WSEI. 
 
 Here's also my leetcode account:
 https://leetcode.com/szymonkda/
